@@ -1,3 +1,9 @@
+
+@font-face {
+  font-family: vazir;
+  src: url(https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Light.woff);
+}
+
 * {
 	font-family: 'vazir'
 }
@@ -99,7 +105,3 @@ h6 {
 	  background-position: 50% 50%;
   }
 
-@font-face {
-  font-family: vazir;
-  src: url(https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Light.woff);
-}
